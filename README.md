@@ -1,2 +1,2 @@
 # opencv-labs
-Computer Vision projects implemented using OpenCV and Keras in Python
+Computer Vision projects implemented using OpenCV, Tkinter and Keras in Python
